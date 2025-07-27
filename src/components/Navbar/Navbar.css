@@ -1,0 +1,17 @@
+.mainColor{
+    background: #2C3E50;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+    background-color: #1ABC9C;
+    color: white;
+    border-radius: 5px;
+}
+a{
+    color: white;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: white;
+}
+.navbar-nav .nav-link, .navbar-nav .nav-link {
+    color: white;
+}

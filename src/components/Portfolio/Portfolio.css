@@ -1,0 +1,13 @@
+.text-color{
+    color: #2C3E50;
+}
+.font-icon{
+    font-size: 150px;
+    color: #1ABC9C;
+}
+.ad{
+    display: none;
+}
+.card:hover .ad{
+    display: flex;
+}
